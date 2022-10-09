@@ -1,0 +1,3 @@
+[submodule "mini-bog-db"]
+	path = mini-bog-db
+	url = https://git.heroku.com/mini-blog-db.git
