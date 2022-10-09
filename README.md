@@ -81,6 +81,8 @@ heroku open
 heroku logs --tail
 ```
 
+9 . Repo: https://git.heroku.com/mini-blog-db.git
+
 ---
 
 #### How it works
